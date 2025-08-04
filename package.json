@@ -2,7 +2,8 @@
   "name": "reactcicd",
   "private": true,
   "version": "0.0.0",
-  "type": "module","home":" https://github.com/Hushmad/reactcicd.git",
+  "type": "module",
+  "home": " https://github.com/Hushmad/reactcicd.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

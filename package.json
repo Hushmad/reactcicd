@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "home": " https://github.com/Hushmad/reactcicd.git",
+  "home": "https://github.com/Hushmad/reactcicd",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
